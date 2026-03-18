@@ -8,4 +8,4 @@ repository = "https://github.com/beer-psi/zed-fluent"
 
 [grammars.fluent]
 repository = "https://github.com/beerpsi-forks/tree-sitter-fluent"
-rev = "b079d7c78966589e7f84ee6e60afb342579cc3ba"
+rev = "c00bc7392c594300b1ef075a3d58f1d1122b90f7"
