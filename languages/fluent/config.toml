@@ -1,0 +1,4 @@
+name = "Fluent"
+grammar = "fluent"
+path_suffixes = ["ftl"]
+line_comments = ["#"]
